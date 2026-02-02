@@ -16,7 +16,19 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 ---
 
 ### 💻 Tech Stack
-![Tech](https://skillicons.dev/icons?i=java,spring,python,flutter,mysql,firebase,git,github,postman,linux,azure)
+### 💻 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
 
 ---
 
@@ -29,7 +41,7 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 ---
 
 ### 📊 GitHub Stats
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Shreyamehta26&show_icons=true&theme=default)
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyamehta26&show_icons=true&theme=default)
 
 ---
 
