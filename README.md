@@ -16,25 +16,27 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 ---
 
 ### 💻 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
 ### 🤖 Currently Exploring
-![AI](https://img.shields.io/badge/AI%20Fundamentals-000000?style=flat&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM%20Basics-4B0082?style=flat)
-![Cloud](https://img.shields.io/badge/Cloud%20Computing-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Automation](https://img.shields.io/badge/Test%20Automation-6DB33F?style=flat)
+
+![AI Fundamentals](https://img.shields.io/badge/AI%20Fundamentals-000000?style=for-the-badge&logo=openai&logoColor=white)
+![LLM Basics](https://img.shields.io/badge/LLM%20Basics-4B0082?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Test Automation](https://img.shields.io/badge/Test%20Automation-6DB33F?style=for-the-badge)
 
 ---
 
