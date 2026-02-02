@@ -52,7 +52,7 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 
 <div style="background-color:#0d1117; border-left:4px solid #58a6ff; padding:16px; border-radius:8px;">
   <p style="color:#c9d1d9; font-size:16px; margin:0;">
-    <em>Learning by building. Improving by debugging.</em>
+    <em>**Learning by building. Improving by debugging.**</em>
   </p>
 </div>
 
