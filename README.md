@@ -45,6 +45,5 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 
 ---
 
-### 🤖 Building Smarter Systems
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7CFC00&width=500&lines=Curious+learner.;Backend+thinker.;Exploring+AI+fundamentals.)
+### 💡 Engineering Mindset
+> Learning by building. Improving by debugging.
