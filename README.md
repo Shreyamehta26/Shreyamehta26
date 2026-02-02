@@ -50,7 +50,9 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 
 ## 💡 Engineering Mindset
 
-<p style="font-size:18px; color:#58a6ff;">
-Learning by building. Improving by debugging.
+<p align="left">
+  <b><span style="color:#7CFC00;">Learning by building.</span>
+  <span style="color:#FFD700;"> Improving by debugging.</span></b>
 </p>
+
 
