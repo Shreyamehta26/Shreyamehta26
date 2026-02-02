@@ -7,10 +7,6 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 
 🧠 Curious learner | Problem solver | Debugging enthusiast
 
-<p align="right">
-  <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="190" />
-</p>
-
 ---
 
 ### 🌐 Connect with Me
