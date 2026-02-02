@@ -40,10 +40,5 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 
 ---
 
-### 📊 GitHub Stats
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyamehta26&show_icons=true&theme=github_dark)
-
----
-
 ### 💡 Engineering Mindset
 > **Learning by building. Improving by debugging.**
