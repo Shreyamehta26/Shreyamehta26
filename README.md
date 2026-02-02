@@ -7,11 +7,11 @@ I’m a final-year Electronics & Telecommunication Engineering student with a st
 
 From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing to mobile app development during my internship 📱, I like turning ideas into **scalable, working solutions** 🚀. Currently deep-diving into **AI fundamentals, cloud technologies ☁️, and automation**, with a strong focus on **learning by building** 🔧.
 
+🧠 Curious learner | Problem solver | Debugging enthusiast
+
 <p align="right">
   <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="300" />
 </p>
-
-🧠 Curious learner | Problem solver | Debugging enthusiast
 
 ---
 
