@@ -1,26 +1,24 @@
 ## Hey there! I’m Shreya Mehta 👋  
 👩🏻‍💻 Backend & AI-Curious Developer
 
-👩🏻‍💻 Backend & AI-Curious Developer  
-
-I’m a final-year Electronics & Telecommunication Engineering student with a strong interest in backend development, APIs, and AI-driven systems. I enjoy building reliable applications using **Java & Spring Boot**, working with databases 🗄️, and exploring how **AI tools & LLM fundamentals** fit into real-world products 🤖.
+I’m a final-year Electronics & Telecommunication Engineering student with a strong interest in **backend development, APIs, and AI-driven systems**. I enjoy building reliable applications using **Java & Spring Boot**, working with databases 🗄️, and exploring how **AI tools & LLM fundamentals** fit into real-world products 🤖.
 
 From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing to mobile app development during my internship 📱, I like turning ideas into **scalable, working solutions** 🚀. Currently deep-diving into **AI fundamentals, cloud technologies ☁️, and automation**, with a strong focus on **learning by building** 🔧.
 
 🧠 Curious learner | Problem solver | Debugging enthusiast
 
 <p align="right">
-  <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="300" />
+  <img src="https://media1.tenor.com/m/uwdvcjTWrVMAAAAC/coding-boy-coding.gif" width="260" />
 </p>
 
 ---
+
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyaa-mehta-240420259/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreya26.mehta@gmail.com)
 
 ---
 
-### 💻 Tech Stack
 ### 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -34,7 +32,6 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-
 ---
 
 ### 🤖 Currently Exploring
@@ -46,16 +43,9 @@ From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing t
 ---
 
 ### 📊 GitHub Stats
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyamehta26&show_icons=true&theme=default)
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyamehta26&show_icons=true&theme=github_dark)
 
 ---
 
 ### 💡 Engineering Mindset
-
-<div style="background-color:#0d1117; border-left:4px solid #58a6ff; padding:16px; border-radius:8px;">
-  <p style="color:#c9d1d9; font-size:16px; margin:0;">
-    <em>**Learning by building. Improving by debugging.**</em>
-  </p>
-</div>
-
-
+> **Learning by building. Improving by debugging.**
