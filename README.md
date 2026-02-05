@@ -3,7 +3,7 @@
 
 I’m a final-year Electronics & Telecommunication Engineering student with a strong interest in **backend development, APIs, and AI-driven systems**. I enjoy building reliable applications using **Java & Spring Boot**, working with databases 🗄️, and exploring how **AI tools & LLM fundamentals** fit into real-world products 🤖.
 
-From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing to mobile app development during my internship 📱, I like turning ideas into **scalable, working solutions** 🚀. Currently deep-diving into **AI fundamentals, cloud technologies ☁️, and automation**, with a strong focus on **learning by building** 🔧.
+From building **Raksha Kavach** (a JavaFX & Firebase platform) to contributing to mobile app development during my internship 📱, I like turning ideas into **scalable, working solutions** 🚀. Currently deep-diving into **AI fundamentals, cloud technologies ☁️, and automation**, with a strong focus on **learning by building**.
 
 🧠 Curious learner | Problem solver | Debugging enthusiast
 
